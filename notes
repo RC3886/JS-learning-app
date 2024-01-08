@@ -1,0 +1,33 @@
+/*
+fit trails
+GPS geolocator
+login
+routes, maps google api
+kcal calc
+PAI
+history
+cross country skying, running, roller-blades, bike, swim
+
+host servers, monetization, adds, sub, premium services??
+
+
+database - MongoDB and Mongoose??
+middleware - functions between receiving requests and sending responses, tasks like chzeck user logged in, authentication before access to routes etc
+
+express routes and controllers
+
+
+*/
+
+
+
+let x = function(num){                      //promena
+    console.log(num*num)}                   //funkce s parametrem num, vypise numm krat num                                        
+x(5)                                         //volani funkce x s argumentem num
+
+
+// kdyz chci s vysledkem dale pracovat
+let naDruhou = function(number){
+	let result = number * number
+	return result	}
+let value1 = naDruhou(5)
